@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository file
+This is my first repository file  starting to learn with ear in this file and many more....
